@@ -1,0 +1,78 @@
+Mosaic	Habitat_type	Treatment	Longitude	Latitude
+Inner	Hard-bottom	0	83.65505	29.4648
+Inner	Hard-bottom	4	83.65291667	29.46483333
+Inner	Hard-bottom	1	83.65193333	29.46565
+Inner	Hard-bottom	4	83.65375	29.46213333
+Inner	Hard-bottom	1	83.65148333	29.46291667
+Inner	Hard-bottom	0	83.65133333	29.46408333
+Inner	Hard-bottom	1	83.65355	29.46101667
+Inner	Hard-bottom	0	83.65291667	29.46051667
+Inner	Hard-bottom	4	83.65096667	29.46078333
+Inner	Fragmented	4	83.6277	29.46515
+Inner	Fragmented	0	83.62695	29.46675
+Inner	Fragmented	1	83.62551667	29.46528333
+Inner	Fragmented	1	83.6277	29.46366667
+Inner	Fragmented	4	83.62618333	29.46538333
+Inner	Fragmented	0	83.62468333	29.4642
+Inner	Fragmented	0	83.62791667	29.46265					
+Inner	Fragmented	1	83.62686667	29.4625					
+Inner	Fragmented	4	83.62443333	29.46278333	
+Inner	Sand	4	83.64365	29.46128333					
+Inner	Sand	1	83.6417	29.46181667					
+Inner	Sand	0	83.63985	29.46241667					
+Inner	Sand	0	83.6424	29.46085					
+Inner	Sand	4	83.64121667	29.4604					
+Inner	Sand	1	83.63951667	29.46063333					
+Inner	Sand	1	83.643	29.45785					
+Inner	Sand	0	83.64065	29.4578					
+Inner	Sand	4	83.63866667	29.45915					
+Outer	Hard-bottom	1	83.71546667	29.47343333					
+Outer	Hard-bottom	0	83.7146	29.47531667					
+Outer	Hard-bottom	4	83.7119	29.47576667					
+Outer	Hard-bottom	0	83.71496667	29.47248333					
+Outer	Hard-bottom	4	83.71268333	29.4738					
+Outer	Hard-bottom	1	83.71036667	29.47356667					
+Outer	Hard-bottom	4	83.71226667	29.47018333					
+Outer	Hard-bottom	1	83.7111	29.47158333					
+Outer	Hard-bottom	0	83.71011667	29.4724					
+Outer	Fragmented	0	83.70453333	29.47245					
+Outer	Fragmented	1	83.704	29.47285					
+Outer	Fragmented	4	83.70125	29.47358333					
+Outer	Fragmented	4	83.7045	29.471					
+Outer	Fragmented	0	83.70328333	29.47143333					
+Outer	Fragmented	1	83.70063333	29.47168333					
+Outer	Fragmented	1	83.70565	29.47018333					
+Outer	Fragmented	4	83.70275	29.47023333					
+Outer	Fragmented	0	83.70116667	29.46921667					
+Outer	Sand	1	83.71136667	29.48025					
+Outer	Sand	4	83.70961667	29.48103333					
+Outer	Sand	0	83.7089	29.48026667					
+Outer	Sand	0	83.71148333	29.47843333					
+Outer	Sand	1	83.71068333	29.4786					
+Outer	Sand	4	83.70813333	29.4798					
+Outer	Sand	4	83.7127	29.47655					
+Outer	Sand	0	83.70966667	29.47755					
+Outer	Sand	1	83.70915	29.47701667					
+									
+									
+									
+									
+									
+									
+
+
+
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
